@@ -1,8 +1,8 @@
 --[[
 --- Info Hub ---
-[+] HBelz Hub [ Free ] - Version 5.0
-[+] HeiusRoblox-HBelzHub On Top!!
-[+] Script by Heius-HieuYeager!
+[+] andepZai Hub [ Free ] - Version 5.0
+[+] HeiusRoblox- andepZaiHub On Top!!
+[+] Script by lxlx!
 --- My Info ---
 [+] ThĂ´ng Tháº¡o Skid
 [+] áº¢o Coder
@@ -9330,8 +9330,8 @@ local notificationCooldown = 10
 local currentTime = tick()
 if currentTime - lastNotificationTime >= notificationCooldown then
     game.StarterGui:SetCore("SendNotification", {
-        Title = "HBelz Hub",
-        Text = "Successfully",
+        Title = "andepZai Hub",
+        Text = "p",
         Duration = 1
     })
     lastNotificationTime = currentTime
